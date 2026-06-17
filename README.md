@@ -13,7 +13,7 @@
 
 # 📐 Olive June Math
 
-### Mathematics & Computer Science Student @ VNU-HUS
+### Computer Science Student @ VNU-HUS
 
 *"Building one proof, one program at a time"*
 
@@ -21,14 +21,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Sinh viên năm nhất tại **Đại học Khoa học Tự nhiên (VNU-HUS)**
+- 🎓 Sinh viên trường **Đại học Khoa học Tự nhiên (VNU-HUS)**
 - 📚 Khoa Toán – Tin – Cơ học
 - 💡 Chuyên ngành: **Khoa học Máy tính và Thông tin**
 - 🧠 Đang quan tâm:
   - Java OOP & Cấu trúc dữ liệu
   - Linux / Bash / AWK
   - Đại số tuyến tính & Giải tích ứng dụng
-  - Lập trình thi đấu (Competitive Programming)
+  - Machine Learning 
 
 ---
 
@@ -40,14 +40,7 @@
 
 ---
 
-## 🚀 Competitive Programming
 
-<!-- Thay username Codeforces của bạn -->
-[![Codeforces](https://img.shields.io/badge/Codeforces-Olive.June-1D4ED8?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/username)
-
-Mới bắt đầu, cố gắng tiến bộ mỗi ngày 🌱
-
----
 
 ## 🛠️ Tech Stack
 
