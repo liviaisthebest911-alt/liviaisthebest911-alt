@@ -8,7 +8,8 @@
 
 <!-- Banner trên cùng — thay link ảnh banner của bạn -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/banner.jpg" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/banner.jpg" alt="<img width="828" height="828" alt="758422951_1660411578366165_9081020886439495122_n" src="https://github.com/user-attachments/assets/bf67bf5a-4f35-4ac7-93c8-9651093ce387" />
+" width="100%">
 </p>
 
 # 📐 Olive June Math
@@ -21,14 +22,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Sinh viên trường **Đại học Khoa học Tự nhiên (VNU-HUS)**
-- 📚 Khoa Toán – Tin – Cơ học
-- 💡 Chuyên ngành: **Khoa học Máy tính và Thông tin**
-- 🧠 Đang quan tâm:
-  - Java OOP & Cấu trúc dữ liệu
-  - Linux / Bash / AWK
-  - Đại số tuyến tính & Giải tích ứng dụng
-  - Machine Learning 
+-  Sinh viên trường **Đại học Khoa học Tự nhiên (VNU-HUS)**
+-  Khoa Toán – Tin – Cơ học
+- Chuyên ngành: **Khoa học Máy tính và Thông tin**
+
 
 ---
 
@@ -48,21 +45,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Latex](https://img.shields.io/badge/Latex-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Tự động hiển thị thống kê GitHub của bạn — chỉ cần thay USERNAME -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📫 Contact
 
